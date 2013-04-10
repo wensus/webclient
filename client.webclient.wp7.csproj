@@ -48,9 +48,8 @@
     <Reference Include="System.Xml" />
     <Reference Include="System.Net" />
     <Reference Include="mscorlib.extensions" />
-    <Reference Include="wensus.client, Version=2.0.1.13211, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\build\wensus.client.dll</HintPath>
+    <Reference Include="wensus.client">
+      <HintPath>..\..\build\winphone\wensus.client.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
